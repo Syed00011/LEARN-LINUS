@@ -1,0 +1,14 @@
+{
+  "name": "LINUX MASTER",
+  "description": "Professional Linux learning environment with terminal simulation, AI-native tutoring, and interactive curriculum.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered explanations",
+    "Terminal simulation",
+    "Community forums",
+    "Progress tracking"
+  ]
+}
